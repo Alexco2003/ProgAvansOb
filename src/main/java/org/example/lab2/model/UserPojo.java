@@ -1,4 +1,4 @@
-package org.example.model;
+package org.example.lab2.model;
 
 public class UserPojo {
 

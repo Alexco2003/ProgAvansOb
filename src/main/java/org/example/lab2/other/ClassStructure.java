@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lab2.other;
 
 public class ClassStructure {
     /* Instance variable. Is a value defined within a specific instance of an object.

@@ -1,8 +1,8 @@
-package org.example.input;
+package org.example.lab2.input;
 
 
-import org.example.DataStorage.DataStorage;
-import org.example.model.UserPojo;
+import org.example.lab2.dataStorage.DataStorage;
+import org.example.lab2.model.UserPojo;
 
 import java.util.Objects;
 import java.util.Scanner;

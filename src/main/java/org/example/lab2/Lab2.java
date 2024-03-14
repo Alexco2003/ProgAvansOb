@@ -1,6 +1,6 @@
-package org.example;
+package org.example.lab2;
 
-import org.example.input.ReadFromKeyboard;
+import org.example.lab2.input.ReadFromKeyboard;
 
 public class Lab2 {
     public static void main(String[] args) {
