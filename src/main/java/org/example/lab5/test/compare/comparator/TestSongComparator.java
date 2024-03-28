@@ -34,7 +34,7 @@ public class TestSongComparator {
         SongYearComparator yearComparator = new SongYearComparator();
         Arrays.sort(songs, yearComparator);
         for (Song song : songs) {
-            System.out.println("\t" + song.getName());
+            System.out.println("\t" + song.getName() + " - " + song.getYear());
         }
 
 
