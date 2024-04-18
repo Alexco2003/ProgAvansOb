@@ -1,0 +1,3 @@
+Creati o clasa Person. Field-uri: nume, prenume, varsta, email.
+Adaugati 2-3 persoane intr-o colectie (list, ...).
+Produceti un fisier persoane.csv in care sa fie afisate datele acestor persoane, separate prin virgula.
